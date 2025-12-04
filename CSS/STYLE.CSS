@@ -3,7 +3,7 @@ body {
     padding: 0;
     font-family: 'Almendra', sans-serif;
     color: #ffffff;
-    background-image: url('ASSETS/IMG/goth3.jpg');
+    background-image: url('../ASSETS/IMG/goth3.jpg');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
