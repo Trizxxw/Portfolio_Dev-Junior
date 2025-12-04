@@ -45,37 +45,6 @@ body {
     color: #5e0909 !important;
 }
 
-form {
-    background-color: rgba(0,0,0,0.45);
-    border: 1px solid rgba(255,255,255,0.1);
-    padding: 25px;
-    border-radius: 8px;
-}
-
-form input,
-form textarea {
-    background-color: rgba(7,7,7,0.6);
-    border: 1px solid #777676;
-    color: #ffffff;
-}
-
-form input:focus,
-form textarea:focus {
-    border-color: #7a1111;
-    box-shadow: 0 0 5px rgba(122,17,17,0.5);
-}
-
-form .btn {
-    background-color: #464242 !important;
-    color: #fff !important;
-    transition: 0.3s;
-    border-radius: 5px;
-}
-
-form .btn:hover {
-    background-color: #7a1111 !important;
-}
-
 #servicos .card {
     background-color: rgba(0,0,0,0.6) !important;
     border: 1px solid rgba(255,255,255,0.1);
